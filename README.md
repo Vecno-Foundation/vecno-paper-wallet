@@ -2,7 +2,7 @@
 
 A secure, fully client-side paper wallet generator for Vecno (Mainnet).
 
-Generates a BIP-44 compatible wallet entirely in your browser using WebAssembly — **nothing leaves your device**.
+Generates a wallet entirely in your browser using WebAssembly — **nothing leaves your device**.
 
 ## Features
 
