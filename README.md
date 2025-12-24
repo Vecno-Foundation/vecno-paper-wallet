@@ -6,14 +6,11 @@ Generates a wallet entirely in your browser using WebAssembly — **nothing leav
 
 ## Features
 
-- 100% offline generation (no network requests)
 - 24-word BIP-39 mnemonic seed phrase
 - Primary Receive Address + Change Address
 - High-quality QR codes (scannable even when printed)
 
 ## Usage
-
-Simply open `index.html` in any modern browser.
 
 1. Click **"Generate New Wallet"**
 2. Carefully write down the 24-word seed phrase
@@ -22,8 +19,3 @@ Simply open `index.html` in any modern browser.
 
 **Security Warning**:  
 Never share your seed phrase. Anyone with access to it controls your funds permanently.
-
-## Local Development
-
-```bash
-npm run dev
