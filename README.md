@@ -10,11 +10,6 @@ Generates a wallet entirely in your browser using WebAssembly — **nothing leav
 - 24-word BIP-39 mnemonic seed phrase
 - Primary Receive Address + Change Address
 - High-quality QR codes (scannable even when printed)
-- Modern dark UI with subtle futuristic background
-- Fully responsive (desktop to mobile)
-- Addresses wrap cleanly on small screens
-- Seed phrase numbers are non-selectable (prevents copy-paste errors)
-- Minimal final view — perfect for direct printing
 
 ## Usage
 
